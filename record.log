@@ -1,0 +1,105 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:29:24] "[31m[1mPUT /general/ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:29:39] "[31m[1mPUT /general/ HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Ashir\\Desktop\\youtubeAPI\\main.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:31:07] "[31m[1mPUT /general/ HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Ashir\\Desktop\\youtubeAPI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:33:39] "GET /general/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:33:40] "GET /general/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:33:45] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:33:46] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:33:46] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:33:47] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:33:47] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 20:33:47] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug: * Detected change in 'C:\\Users\\Ashir\\Desktop\\youtubeAPI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug: * Detected change in 'C:\\Users\\Ashir\\Desktop\\youtubeAPI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug: * Detected change in 'C:\\Users\\Ashir\\Desktop\\youtubeAPI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:05:27] "[31m[1mPUT /general/ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:07:42] "GET /general/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:07:58] "[31m[1mPUT /general/ HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:08:10] "GET /general/ HTTP/1.1" 200 -
+DEBUG:main:something
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:09:06] "PUT /general/ HTTP/1.1" 200 -
+DEBUG:main:something
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:09:37] "PUT /general/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Ashir\\Desktop\\youtubeAPI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+DEBUG:main:{'name': 'simple video', 'views': 10000, 'likes': 100}
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:09:52] "PUT /general/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Ashir\\Desktop\\youtubeAPI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+DEBUG:main:simple video
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:10:28] "PUT /general/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Ashir\\Desktop\\youtubeAPI\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-134-928
+DEBUG:main:simple video
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:11:06] "PUT /general/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:11:31] "[31m[1mPUT /general/ HTTP/1.1[0m" 400 -
+DEBUG:main:simple video
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:12:04] "PUT /general/ HTTP/1.1" 200 -
+DEBUG:main:simple video
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:12:07] "PUT /general/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2023 21:12:14] "[31m[1mPUT /general/ HTTP/1.1[0m" 400 -
